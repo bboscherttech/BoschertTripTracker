@@ -1,0 +1,349 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		05FDB45CA83B912ED1B9A97D /* BoschertTripTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39CDF041BD6C5F196B1E9DC /* BoschertTripTrackerApp.swift */; };
+		1058FCD91AA6D84151EC4ADA /* BoschertTechnologiesWordmark.png in Resources */ = {isa = PBXBuildFile; fileRef = E35177028B6B85D7524FB522 /* BoschertTechnologiesWordmark.png */; };
+		113162523777A6F4FB1CA1A9 /* TrackerSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846744B64EECDBDE61223D08 /* TrackerSettingsView.swift */; };
+		3D6895B82E6997BDECCBDD79 /* AppIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = C3230EAA04D932FD7C21DFC8 /* AppIcon.icns */; };
+		5196F88F867C22A91B9780BA /* airports.json in Resources */ = {isa = PBXBuildFile; fileRef = 1D567E054605F92CA0C493C0 /* airports.json */; };
+		9BA5FA8E952EF8307748804C /* BoschertTechnologiesMark.png in Resources */ = {isa = PBXBuildFile; fileRef = 55B1573EF830F2B8EC8F9CD9 /* BoschertTechnologiesMark.png */; };
+		AF9D3BF862EE80B64FECAC7E /* TripCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9E829B0E1044B4F5BFA7 /* TripCore.swift */; };
+		C9A0752E0222E05896A927C4 /* BoschertTechnologiesMark.svg in Resources */ = {isa = PBXBuildFile; fileRef = D921E4FE4F0CC9FCB4C72AB3 /* BoschertTechnologiesMark.svg */; };
+		C9D7D708C3EF8A6BEA1F066E /* TrackerStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0FA298B5EFD578ACB885BEF /* TrackerStore.swift */; };
+		DAF304D1E3E81494A8DBDBDD /* HealthStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893667E4D0010CB4212F481B /* HealthStatus.swift */; };
+		E03D449B50AAA76495EE1E43 /* FlightSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752E1979CF284528CFB0F16 /* FlightSearchView.swift */; };
+		ED1FC56CD5FD6E008AD53FA0 /* TrackedTripView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F57C98A6BF07FD85F3800615 /* TrackedTripView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		02C209DF7F09CEF64F03057F /* test_maintenance.py */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.python; path = test_maintenance.py; sourceTree = "<group>"; };
+		0505926E4E34D028F00B5A2F /* build.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build.sh; sourceTree = "<group>"; };
+		14F58F3EB19BD192E6836D2E /* flights.py */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.python; path = flights.py; sourceTree = "<group>"; };
+		1752E1979CF284528CFB0F16 /* FlightSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightSearchView.swift; sourceTree = "<group>"; };
+		1BE8ABE52D59AFF94AEF4059 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1D567E054605F92CA0C493C0 /* airports.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = airports.json; sourceTree = "<group>"; };
+		28AF3C553B078D088295713C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D910ADAE06151317C225153 /* Boschert Trip Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Boschert Trip Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CB87097CB41D73881EB9894 /* requirements-dev.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "requirements-dev.txt"; sourceTree = "<group>"; };
+		40DF46A531CAADCF1813A7FD /* BuildIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildIcon.swift; sourceTree = "<group>"; };
+		55B1573EF830F2B8EC8F9CD9 /* BoschertTechnologiesMark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoschertTechnologiesMark.png; sourceTree = "<group>"; };
+		5D5D0BCD80F91F328361640B /* maintenance.py */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.python; path = maintenance.py; sourceTree = "<group>"; };
+		846744B64EECDBDE61223D08 /* TrackerSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackerSettingsView.swift; sourceTree = "<group>"; };
+		893667E4D0010CB4212F481B /* HealthStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthStatus.swift; sourceTree = "<group>"; };
+		A39CDF041BD6C5F196B1E9DC /* BoschertTripTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoschertTripTrackerApp.swift; sourceTree = "<group>"; };
+		C3230EAA04D932FD7C21DFC8 /* AppIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = AppIcon.icns; sourceTree = "<group>"; };
+		C3384F2E37B6C2E11718CB69 /* requirements-lock.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "requirements-lock.txt"; sourceTree = "<group>"; };
+		C4BFB0B9337A0FBCA09AEF45 /* setup.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = setup.sh; sourceTree = "<group>"; };
+		CFBF9E829B0E1044B4F5BFA7 /* TripCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripCore.swift; sourceTree = "<group>"; };
+		D921E4FE4F0CC9FCB4C72AB3 /* BoschertTechnologiesMark.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = BoschertTechnologiesMark.svg; sourceTree = "<group>"; };
+		DC749A5C30201E443A5BE5F5 /* prepare-worker.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "prepare-worker.sh"; sourceTree = "<group>"; };
+		E0FA298B5EFD578ACB885BEF /* TrackerStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackerStore.swift; sourceTree = "<group>"; };
+		E35177028B6B85D7524FB522 /* BoschertTechnologiesWordmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoschertTechnologiesWordmark.png; sourceTree = "<group>"; };
+		EB74174F201019B1F367C5CA /* probe.py */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.python; path = probe.py; sourceTree = "<group>"; };
+		F57C98A6BF07FD85F3800615 /* TrackedTripView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackedTripView.swift; sourceTree = "<group>"; };
+		F65A568242DB24CCF39C2DCA /* requirements.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = requirements.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1D9BE6103B49CA6EEEE605CC /* Build Tools */ = {
+			isa = PBXGroup;
+			children = (
+				40DF46A531CAADCF1813A7FD /* BuildIcon.swift */,
+				0505926E4E34D028F00B5A2F /* build.sh */,
+			);
+			name = "Build Tools";
+			sourceTree = "<group>";
+		};
+		5B603ADFCAB5555A5DBB711D = {
+			isa = PBXGroup;
+			children = (
+				A39CDF041BD6C5F196B1E9DC /* BoschertTripTrackerApp.swift */,
+				893667E4D0010CB4212F481B /* HealthStatus.swift */,
+				846744B64EECDBDE61223D08 /* TrackerSettingsView.swift */,
+				F57C98A6BF07FD85F3800615 /* TrackedTripView.swift */,
+				1752E1979CF284528CFB0F16 /* FlightSearchView.swift */,
+				E0FA298B5EFD578ACB885BEF /* TrackerStore.swift */,
+				CFBF9E829B0E1044B4F5BFA7 /* TripCore.swift */,
+				FD9F063112656BEBFDC1D130 /* Assets */,
+				BFF642E496FE3488A2F31DFD /* Flight Data Helper */,
+				B4AECBF49A26C14E8C266929 /* scripts */,
+				DD5F78C3FE6972EAA9A1C90A /* Configuration */,
+				1D9BE6103B49CA6EEEE605CC /* Build Tools */,
+				1BE8ABE52D59AFF94AEF4059 /* README.md */,
+				C1CF1EFDCA4D103A046D15DC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B4AECBF49A26C14E8C266929 /* scripts */ = {
+			isa = PBXGroup;
+			children = (
+				DC749A5C30201E443A5BE5F5 /* prepare-worker.sh */,
+				C4BFB0B9337A0FBCA09AEF45 /* setup.sh */,
+			);
+			path = scripts;
+			sourceTree = "<group>";
+		};
+		BFF642E496FE3488A2F31DFD /* Flight Data Helper */ = {
+			isa = PBXGroup;
+			children = (
+				EB74174F201019B1F367C5CA /* probe.py */,
+				5D5D0BCD80F91F328361640B /* maintenance.py */,
+				02C209DF7F09CEF64F03057F /* test_maintenance.py */,
+				F65A568242DB24CCF39C2DCA /* requirements.txt */,
+				3CB87097CB41D73881EB9894 /* requirements-dev.txt */,
+				C3384F2E37B6C2E11718CB69 /* requirements-lock.txt */,
+				14F58F3EB19BD192E6836D2E /* flights.py */,
+			);
+			name = "Flight Data Helper";
+			sourceTree = "<group>";
+		};
+		C1CF1EFDCA4D103A046D15DC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2D910ADAE06151317C225153 /* Boschert Trip Tracker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DD5F78C3FE6972EAA9A1C90A /* Configuration */ = {
+			isa = PBXGroup;
+			children = (
+				28AF3C553B078D088295713C /* Info.plist */,
+			);
+			path = Configuration;
+			sourceTree = "<group>";
+		};
+		FD9F063112656BEBFDC1D130 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				55B1573EF830F2B8EC8F9CD9 /* BoschertTechnologiesMark.png */,
+				E35177028B6B85D7524FB522 /* BoschertTechnologiesWordmark.png */,
+				D921E4FE4F0CC9FCB4C72AB3 /* BoschertTechnologiesMark.svg */,
+				C3230EAA04D932FD7C21DFC8 /* AppIcon.icns */,
+				1D567E054605F92CA0C493C0 /* airports.json */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D97B1B3BC1EDFB3534941C97 /* Boschert Trip Tracker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F72FADC602B6BCC3C6CEEB7A /* Build configuration list for PBXNativeTarget "Boschert Trip Tracker" */;
+			buildPhases = (
+				7B43A953D3D342D5E620AA97 /* Sources */,
+				A630B701113F8553099C98BE /* Resources */,
+				8BD47235DB6FDA5138897365 /* Bundle flight-data helper */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Boschert Trip Tracker";
+			productName = "Boschert Trip Tracker";
+			productReference = 2D910ADAE06151317C225153 /* Boschert Trip Tracker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E60E466C6F177B3847993759 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastSwiftUpdateCheck = 2720;
+				LastUpgradeCheck = 2720;
+				TargetAttributes = {
+					D97B1B3BC1EDFB3534941C97 = {
+						CreatedOnToolsVersion = 27.2;
+					};
+				};
+			};
+			buildConfigurationList = E73B38A1ED787A99C8ABA0AA /* Build configuration list for PBXProject "BoschertTripTracker" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5B603ADFCAB5555A5DBB711D;
+			productRefGroup = C1CF1EFDCA4D103A046D15DC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D97B1B3BC1EDFB3534941C97 /* Boschert Trip Tracker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A630B701113F8553099C98BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BA5FA8E952EF8307748804C /* BoschertTechnologiesMark.png in Resources */,
+				1058FCD91AA6D84151EC4ADA /* BoschertTechnologiesWordmark.png in Resources */,
+				C9A0752E0222E05896A927C4 /* BoschertTechnologiesMark.svg in Resources */,
+				3D6895B82E6997BDECCBDD79 /* AppIcon.icns in Resources */,
+				5196F88F867C22A91B9780BA /* airports.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8BD47235DB6FDA5138897365 /* Bundle flight-data helper */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle flight-data helper";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/zsh;
+			shellScript = "set -eu\ncd \"$SRCROOT\"\n/bin/zsh \"$SRCROOT/scripts/prepare-worker.sh\"\nmkdir -p \"$TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH/worker\"\n/usr/bin/ditto --norsrc --noextattr \"$SRCROOT/.build/worker-dist/triptracker-worker\" \"$TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH/worker\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7B43A953D3D342D5E620AA97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05FDB45CA83B912ED1B9A97D /* BoschertTripTrackerApp.swift in Sources */,
+				AF9D3BF862EE80B64FECAC7E /* TripCore.swift in Sources */,
+				C9D7D708C3EF8A6BEA1F066E /* TrackerStore.swift in Sources */,
+				E03D449B50AAA76495EE1E43 /* FlightSearchView.swift in Sources */,
+				ED1FC56CD5FD6E008AD53FA0 /* TrackedTripView.swift in Sources */,
+				113162523777A6F4FB1CA1A9 /* TrackerSettingsView.swift in Sources */,
+				DAF304D1E3E81494A8DBDBDD /* HealthStatus.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		73FC685B02A228A153F8BE4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		9F0AC697F373D3E318F368F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CODE_SIGNING_ALLOWED = YES;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_APP_SANDBOX = NO;
+				ENABLE_HARDENED_RUNTIME = NO;
+				EXECUTABLE_NAME = BoschertTripTracker;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Configuration/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				OTHER_CODE_SIGN_FLAGS = "--deep";
+				PRODUCT_BUNDLE_IDENTIFIER = com.boscherttechnologies.triptracker;
+				PRODUCT_NAME = "Boschert Trip Tracker";
+				SUPPORTED_PLATFORMS = macosx;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+			};
+			name = Release;
+		};
+		B7A43F340E09A8F23DABA20E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CODE_SIGNING_ALLOWED = YES;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_APP_SANDBOX = NO;
+				ENABLE_HARDENED_RUNTIME = NO;
+				EXECUTABLE_NAME = BoschertTripTracker;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Configuration/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				OTHER_CODE_SIGN_FLAGS = "--deep";
+				PRODUCT_BUNDLE_IDENTIFIER = com.boscherttechnologies.triptracker;
+				PRODUCT_NAME = "Boschert Trip Tracker";
+				SUPPORTED_PLATFORMS = macosx;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+			};
+			name = Debug;
+		};
+		F4FF9B10EE113BC21FCA401F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E73B38A1ED787A99C8ABA0AA /* Build configuration list for PBXProject "BoschertTripTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4FF9B10EE113BC21FCA401F /* Debug */,
+				73FC685B02A228A153F8BE4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F72FADC602B6BCC3C6CEEB7A /* Build configuration list for PBXNativeTarget "Boschert Trip Tracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7A43F340E09A8F23DABA20E /* Debug */,
+				9F0AC697F373D3E318F368F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E60E466C6F177B3847993759 /* Project object */;
+}
