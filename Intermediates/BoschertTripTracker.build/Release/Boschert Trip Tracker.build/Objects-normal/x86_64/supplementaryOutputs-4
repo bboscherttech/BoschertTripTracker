@@ -1,0 +1,12 @@
+{
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/BoschertTripTrackerApp.swift" : {
+    "abi-baseline-json" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert_Trip_Tracker.abi.json",
+    "const-values" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert Trip Tracker-primary.swiftconstvalues",
+    "dependencies" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert Trip Tracker-primary.d",
+    "diagnostics" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert Trip Tracker-primary.dia",
+    "objc-header" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert_Trip_Tracker-Swift.h",
+    "swiftdoc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert_Trip_Tracker.swiftdoc",
+    "swiftmodule" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert_Trip_Tracker.swiftmodule",
+    "swiftsourceinfo" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/x86_64/Boschert_Trip_Tracker.swiftsourceinfo"
+  }
+}

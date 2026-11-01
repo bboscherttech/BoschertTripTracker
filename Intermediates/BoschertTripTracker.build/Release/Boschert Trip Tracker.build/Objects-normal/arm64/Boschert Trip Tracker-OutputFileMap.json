@@ -1,0 +1,46 @@
+{
+  "" : {
+    "const-values" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary.swiftconstvalues",
+    "dependencies" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary.d",
+    "diagnostics" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary.dia",
+    "emit-module-dependencies" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary-emit-module.dia",
+    "pch" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/Boschert Trip Tracker-primary.swiftdeps"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/BoschertTripTrackerApp.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/BoschertTripTrackerApp.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/BoschertTripTrackerApp.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/BoschertTripTrackerApp.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/FlightSearchView.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/FlightSearchView.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/FlightSearchView.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/FlightSearchView.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/HealthStatus.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/HealthStatus.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/HealthStatus.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/HealthStatus.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/TrackedTripView.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackedTripView.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackedTripView.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackedTripView.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/TrackerSettingsView.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerSettingsView.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerSettingsView.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerSettingsView.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/TrackerStore.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerStore.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerStore.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TrackerStore.o"
+  },
+  "/Users/benboschert/PersonalProjects/BoschertTripTracker/TripCore.swift" : {
+    "index-unit-output-path" : "/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TripCore.o",
+    "llvm-bc" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TripCore.bc",
+    "object" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/BoschertTripTracker.build/Release/Boschert Trip Tracker.build/Objects-normal/arm64/TripCore.o"
+  }
+}

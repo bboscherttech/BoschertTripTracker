@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "6f4e8f3290cdeb17bac0cb735a605e868a8c5a932b5dc2e0750275bacd152b0a"
+    }
+  ],
+  "containerPath" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/BoschertTripTracker.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx27.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates",
+      "buildProductsPath" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Products",
+      "derivedDataPath" : "/Users/benboschert/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/benboschert/Library/Developer/Xcode/DerivedData/BoschertTripTracker-dchynutvselyeogqexwndujbgkcm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/benboschert/Library/Developer/Xcode/DerivedData/BoschertTripTracker-dchynutvselyeogqexwndujbgkcm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/benboschert/PersonalProjects/BoschertTripTracker/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
